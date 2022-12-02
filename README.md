@@ -10,7 +10,7 @@ I'm currently learning Golang
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=lolverae&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lolverae&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lolverae&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=lolverae.github.io)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lolverae&icon=5&color=4)](https://visitcount.itsvg.in)
