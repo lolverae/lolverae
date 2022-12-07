@@ -9,7 +9,7 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 {{- end }}
 
 #### 🚀 My recent contributions
-{{- range recentContributions 5}}
+{{- range recentContributions 3}}
 - **[{{.Repo.Name}}]({{.Repo.URL}})** - {{humanize .OccurredAt}}
 {{- end}}
 
