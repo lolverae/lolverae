@@ -13,9 +13,9 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/i3-debian-setup](https://github.com/lolverae/i3-debian-setup)** - 1 month ago
 
 #### ⭐ Recent Stars
+- **[dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio)** - Open-source Internal Developer Platform (IDP) for developers and non-specialists to manage multi-instance deployments, microservices and configurations in Kubernetes &amp; Docker. (today)
 - **[muesli/markscribe](https://github.com/muesli/markscribe)** - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
 - **[miniscruff/changie](https://github.com/miniscruff/changie)** - Automated changelog tool for preparing releases with lots of customization options (1 day ago)
-- **[bashbunni/pjs](https://github.com/bashbunni/pjs)** - A basic CLI for regularly updating your project&#39;s status (1 day ago)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
