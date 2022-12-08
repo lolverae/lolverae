@@ -13,9 +13,9 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/i3-debian-setup](https://github.com/lolverae/i3-debian-setup)** - 1 month ago
 
 #### ⭐ Recent Stars
+- **[pixie-io/pixie](https://github.com/pixie-io/pixie)** - Instant Kubernetes-Native Application Observability (today)
+- **[hexa-org/policy-orchestrator](https://github.com/hexa-org/policy-orchestrator)** - Hexa Policy Orchestrator enables you to manage all of your access policies consistently across software providers. (today)
 - **[nunocoracao/blowfish](https://github.com/nunocoracao/blowfish)** - Personal Website &amp; Blog Theme for Hugo (1 day ago)
-- **[dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio)** - Open-source Internal Developer Platform (IDP) for developers and non-specialists to manage multi-instance deployments, microservices and configurations in Kubernetes &amp; Docker. (1 day ago)
-- **[muesli/markscribe](https://github.com/muesli/markscribe)** - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
