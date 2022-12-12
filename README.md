@@ -8,14 +8,14 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/i3-debian-setup](https://github.com/lolverae/i3-debian-setup)** - My personal i3 setup on Debian
 
 #### 🚀 My recent contributions
-- **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - 3 days ago
-- **[lolverae/dotfiles](https://github.com/lolverae/dotfiles)** - 4 days ago
+- **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - 4 days ago
+- **[lolverae/dotfiles](https://github.com/lolverae/dotfiles)** - 5 days ago
 - **[lolverae/i3-debian-setup](https://github.com/lolverae/i3-debian-setup)** - 1 month ago
 
 #### ⭐ Recent Stars
-- **[pixie-io/pixie](https://github.com/pixie-io/pixie)** - Instant Kubernetes-Native Application Observability (3 days ago)
-- **[hexa-org/policy-orchestrator](https://github.com/hexa-org/policy-orchestrator)** - Hexa Policy Orchestrator enables you to manage all of your access policies consistently across software providers. (3 days ago)
-- **[nunocoracao/blowfish](https://github.com/nunocoracao/blowfish)** - Personal Website &amp; Blog Theme for Hugo (4 days ago)
+- **[pixie-io/pixie](https://github.com/pixie-io/pixie)** - Instant Kubernetes-Native Application Observability (4 days ago)
+- **[hexa-org/policy-orchestrator](https://github.com/hexa-org/policy-orchestrator)** - Hexa Policy Orchestrator enables you to manage all of your access policies consistently across software providers. (4 days ago)
+- **[nunocoracao/blowfish](https://github.com/nunocoracao/blowfish)** - Personal Website &amp; Blog Theme for Hugo (5 days ago)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
