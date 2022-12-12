@@ -8,7 +8,7 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/i3-debian-setup](https://github.com/lolverae/i3-debian-setup)** - My personal i3 setup on Debian
 
 #### 🚀 My recent contributions
-- **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - 4 days ago
+- **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - 1 day ago
 - **[lolverae/dotfiles](https://github.com/lolverae/dotfiles)** - 5 days ago
 - **[lolverae/i3-debian-setup](https://github.com/lolverae/i3-debian-setup)** - 1 month ago
 
