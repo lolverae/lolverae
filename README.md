@@ -13,9 +13,9 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/i3-debian-setup](https://github.com/lolverae/i3-debian-setup)** - 1 month ago
 
 #### ⭐ Recent Stars
+- **[TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops)** - Curating the best DevSecOps resources and tooling. (today)
+- **[dastergon/awesome-sre](https://github.com/dastergon/awesome-sre)** - A curated list of Site Reliability and Production Engineering resources. (today)
 - **[pixie-io/pixie](https://github.com/pixie-io/pixie)** - Instant Kubernetes-Native Application Observability (5 days ago)
-- **[hexa-org/policy-orchestrator](https://github.com/hexa-org/policy-orchestrator)** - Hexa Policy Orchestrator enables you to manage all of your access policies consistently across software providers. (5 days ago)
-- **[nunocoracao/blowfish](https://github.com/nunocoracao/blowfish)** - Personal Website &amp; Blog Theme for Hugo (6 days ago)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
