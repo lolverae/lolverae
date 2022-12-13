@@ -13,9 +13,9 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/i3-debian-setup](https://github.com/lolverae/i3-debian-setup)** - 1 month ago
 
 #### ⭐ Recent Stars
-- **[TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops)** - Curating the best DevSecOps resources and tooling. (today)
-- **[dastergon/awesome-sre](https://github.com/dastergon/awesome-sre)** - A curated list of Site Reliability and Production Engineering resources. (today)
-- **[pixie-io/pixie](https://github.com/pixie-io/pixie)** - Instant Kubernetes-Native Application Observability (5 days ago)
+- **[helm/helm](https://github.com/helm/helm)** - The Kubernetes Package Manager (today)
+- **[hashicorp/terraform](https://github.com/hashicorp/terraform)** - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (today)
+- **[meshery/meshery](https://github.com/meshery/meshery)** - Meshery, the cloud native manager (today)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
