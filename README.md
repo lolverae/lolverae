@@ -3,14 +3,14 @@
 I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an SRE at Honeywell
 
 #### 👨💻 Repositories I created recently
+- **[lolverae/terraform-proxmox-example](https://github.com/lolverae/terraform-proxmox-example)** - terraform-proxmox-example
 - **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - AoC for funsies
 - **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)**
-- **[lolverae/i3-debian-setup](https://github.com/lolverae/i3-debian-setup)** - My personal i3 setup on Debian
 
 #### 🚀 My recent contributions
+- **[lolverae/terraform-proxmox-example](https://github.com/lolverae/terraform-proxmox-example)** - 1 day ago
 - **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - 1 week ago
 - **[lolverae/programming-problems](https://github.com/lolverae/programming-problems)** - 2 weeks ago
-- **[lolverae/dotfiles](https://github.com/lolverae/dotfiles)** - 3 weeks ago
 
 #### ⭐ Recent Stars
 - **[Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)** - Terraform provider plugin for proxmox (today)
