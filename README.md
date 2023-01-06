@@ -8,9 +8,9 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)**
 
 #### 🚀 My recent contributions
+- **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 2 days ago
 - **[meshery/play](https://github.com/meshery/play)** - 2 days ago
 - **[lolverae/terraform-proxmox-example](https://github.com/lolverae/terraform-proxmox-example)** - 1 week ago
-- **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - 2 weeks ago
 
 #### ⭐ Recent Stars
 - **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (today)
