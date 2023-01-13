@@ -8,14 +8,14 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)**
 
 #### 🚀 My recent contributions
+- **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 1 day ago
 - **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 1 week ago
 - **[meshery/play](https://github.com/meshery/play)** - 1 week ago
-- **[lolverae/terraform-proxmox-example](https://github.com/lolverae/terraform-proxmox-example)** - 2 weeks ago
 
 #### ⭐ Recent Stars
+- **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (today)
 - **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (1 week ago)
 - **[Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)** - Terraform provider plugin for proxmox (2 weeks ago)
-- **[helm/helm](https://github.com/helm/helm)** - The Kubernetes Package Manager (1 month ago)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
