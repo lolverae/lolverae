@@ -13,9 +13,9 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[meshery/play](https://github.com/meshery/play)** - 1 week ago
 
 #### ⭐ Recent Stars
+- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (today)
 - **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (1 day ago)
 - **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (1 week ago)
-- **[Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)** - Terraform provider plugin for proxmox (2 weeks ago)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
