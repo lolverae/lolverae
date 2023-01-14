@@ -8,12 +8,12 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)**
 
 #### 🚀 My recent contributions
-- **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 1 day ago
+- **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 2 days ago
 - **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 1 week ago
 - **[meshery/play](https://github.com/meshery/play)** - 1 week ago
 
 #### ⭐ Recent Stars
-- **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (today)
+- **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (1 day ago)
 - **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (1 week ago)
 - **[Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)** - Terraform provider plugin for proxmox (2 weeks ago)
 
