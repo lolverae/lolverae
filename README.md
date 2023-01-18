@@ -8,13 +8,13 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)**
 
 #### 🚀 My recent contributions
-- **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 5 days ago
-- **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 1 week ago
-- **[meshery/play](https://github.com/meshery/play)** - 1 week ago
+- **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 6 days ago
+- **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 2 weeks ago
+- **[meshery/play](https://github.com/meshery/play)** - 2 weeks ago
 
 #### ⭐ Recent Stars
-- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (3 days ago)
-- **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (4 days ago)
+- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (4 days ago)
+- **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (5 days ago)
 - **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (1 week ago)
 
 ## 🌐Socials
