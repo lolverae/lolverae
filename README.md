@@ -8,14 +8,14 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - AoC for funsies
 
 #### 🚀 My recent contributions
-- **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 2 days ago
+- **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 3 days ago
 - **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 1 week ago
 - **[meshery/play](https://github.com/meshery/play)** - 2 weeks ago
 
 #### ⭐ Recent Stars
-- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (5 days ago)
-- **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (6 days ago)
-- **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (1 week ago)
+- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (6 days ago)
+- **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (1 week ago)
+- **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (2 weeks ago)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
