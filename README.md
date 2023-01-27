@@ -14,8 +14,8 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 
 #### ⭐ Recent Stars
 - **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (1 week ago)
-- **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (1 week ago)
-- **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (2 weeks ago)
+- **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (2 weeks ago)
+- **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (3 weeks ago)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
