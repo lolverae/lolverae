@@ -13,7 +13,7 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[meshery/play](https://github.com/meshery/play)** - 3 weeks ago
 
 #### ⭐ Recent Stars
-- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (1 week ago)
+- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (2 weeks ago)
 - **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (2 weeks ago)
 - **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (3 weeks ago)
 
