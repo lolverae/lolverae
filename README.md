@@ -9,8 +9,8 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 
 #### 🚀 My recent contributions
 - **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 1 week ago
+- **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 2 weeks ago
 - **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 2 weeks ago
-- **[meshery/play](https://github.com/meshery/play)** - 3 weeks ago
 
 #### ⭐ Recent Stars
 - **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (2 weeks ago)
