@@ -13,9 +13,9 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 2 weeks ago
 
 #### ⭐ Recent Stars
+- **[mag37/dockcheck](https://github.com/mag37/dockcheck)** - A script checking updates for docker images without the need of pulling - then optionally auto-update chosen containers. (today)
 - **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (2 weeks ago)
 - **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (2 weeks ago)
-- **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (3 weeks ago)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
