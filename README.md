@@ -8,12 +8,12 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - AoC for funsies
 
 #### 🚀 My recent contributions
-- **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 2 weeks ago
+- **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 3 weeks ago
 - **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 3 weeks ago
 - **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 3 weeks ago
 
 #### ⭐ Recent Stars
-- **[mag37/dockcheck](https://github.com/mag37/dockcheck)** - A script checking updates for docker images without the need of pulling - then optionally auto-update chosen containers. (5 days ago)
+- **[mag37/dockcheck](https://github.com/mag37/dockcheck)** - A script checking updates for docker images without the need of pulling - then optionally auto-update chosen containers. (6 days ago)
 - **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (3 weeks ago)
 - **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (3 weeks ago)
 
