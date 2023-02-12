@@ -9,13 +9,13 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 
 #### 🚀 My recent contributions
 - **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 3 weeks ago
-- **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 4 weeks ago
+- **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 1 month ago
 - **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 1 month ago
 
 #### ⭐ Recent Stars
 - **[mag37/dockcheck](https://github.com/mag37/dockcheck)** - A script checking updates for docker images without pulling - then selectively auto-update some/all containers. (1 week ago)
 - **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (4 weeks ago)
-- **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (4 weeks ago)
+- **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (1 month ago)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
