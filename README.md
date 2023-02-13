@@ -14,7 +14,7 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 
 #### ⭐ Recent Stars
 - **[mag37/dockcheck](https://github.com/mag37/dockcheck)** - A script checking updates for docker images without pulling - then selectively auto-update some/all containers. (1 week ago)
-- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (4 weeks ago)
+- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (1 month ago)
 - **[nikoksr/notify](https://github.com/nikoksr/notify)** - A dead simple Go library for sending notifications to various messaging services. (1 month ago)
 
 ## 🌐Socials
