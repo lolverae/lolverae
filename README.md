@@ -8,12 +8,12 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - AoC for funsies
 
 #### 🚀 My recent contributions
-- **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 4 weeks ago
+- **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 1 month ago
 - **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 1 month ago
 - **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 1 month ago
 
 #### ⭐ Recent Stars
-- **[andyshinn/docker-alpine-abuild](https://github.com/andyshinn/docker-alpine-abuild)** - Alpine Linux package builder in Docker (today)
+- **[andyshinn/docker-alpine-abuild](https://github.com/andyshinn/docker-alpine-abuild)** - Alpine Linux package builder in Docker (1 day ago)
 - **[mag37/dockcheck](https://github.com/mag37/dockcheck)** - A script checking updates for docker images without pulling - then selectively auto-update some/all containers. (2 weeks ago)
 - **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (1 month ago)
 
