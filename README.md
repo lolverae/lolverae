@@ -10,7 +10,7 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 #### 🚀 My recent contributions
 - **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 1 month ago
 - **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 1 month ago
-- **[meshery/meshery-istio](https://github.com/meshery/meshery-istio)** - 1 month ago
+- **[meshery/meshery-app-mesh](https://github.com/meshery/meshery-app-mesh)** - 1 month ago
 
 #### ⭐ Recent Stars
 - **[andyshinn/docker-alpine-abuild](https://github.com/andyshinn/docker-alpine-abuild)** - Alpine Linux package builder in Docker (1 week ago)
