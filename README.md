@@ -14,7 +14,7 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 
 #### ⭐ Recent Stars
 - **[andyshinn/docker-alpine-abuild](https://github.com/andyshinn/docker-alpine-abuild)** - Alpine Linux package builder in Docker (2 weeks ago)
-- **[mag37/dockcheck](https://github.com/mag37/dockcheck)** - A script checking updates for docker images without pulling - then selectively auto-update some/all containers. (4 weeks ago)
+- **[mag37/dockcheck](https://github.com/mag37/dockcheck)** - A script checking updates for docker images without pulling - then selectively auto-update some/all containers. (1 month ago)
 - **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (1 month ago)
 
 ## 🌐Socials
