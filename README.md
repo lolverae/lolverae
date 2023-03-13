@@ -9,8 +9,8 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 
 #### 🚀 My recent contributions
 - **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 3 weeks ago
+- **[meshery/meshery-kuma](https://github.com/meshery/meshery-kuma)** - 1 month ago
 - **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 1 month ago
-- **[meshery/meshery-app-mesh](https://github.com/meshery/meshery-app-mesh)** - 1 month ago
 
 #### ⭐ Recent Stars
 - **[ptitSeb/box86](https://github.com/ptitSeb/box86)** - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices (1 day ago)
