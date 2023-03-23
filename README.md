@@ -9,7 +9,7 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 
 #### 🚀 My recent contributions
 - **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 1 month ago
-- **[meshery/meshery-kuma](https://github.com/meshery/meshery-kuma)** - 1 month ago
+- **[meshery/meshery-kuma](https://github.com/meshery/meshery-kuma)** - 2 months ago
 - **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 2 months ago
 
 #### ⭐ Recent Stars
