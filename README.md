@@ -8,7 +8,7 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 - **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - AoC for funsies
 
 #### 🚀 My recent contributions
-- **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 1 month ago
+- **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 2 months ago
 - **[meshery/meshery-kuma](https://github.com/meshery/meshery-kuma)** - 2 months ago
 - **[lolverae/ansible-skeleton-starter](https://github.com/lolverae/ansible-skeleton-starter)** - 2 months ago
 
