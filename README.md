@@ -3,14 +3,14 @@
 I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an SRE at Honeywell
 
 #### 👨💻 Repositories I created recently
+- **[lolverae/Personal-WSL-setup](https://github.com/lolverae/Personal-WSL-setup)** - This automates the setup of a Debian environment on WSL
 - **[lolverae/terraform-proxmox-example](https://github.com/lolverae/terraform-proxmox-example)** - terraform-proxmox-example
 - **[lolverae/advent-of-code-2022](https://github.com/lolverae/advent-of-code-2022)** - AoC for funsies
-- **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)**
 
 #### 🚀 My recent contributions
+- **[lolverae/Personal-WSL-setup](https://github.com/lolverae/Personal-WSL-setup)** - 1 day ago
 - **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 10 months ago
 - **[meshery/meshery-kuma](https://github.com/meshery/meshery-kuma)** - 11 months ago
-- **[meshery/meshery-app-mesh](https://github.com/meshery/meshery-app-mesh)** - 11 months ago
 
 #### ⭐ Recent Stars
 - **[ptitSeb/box86](https://github.com/ptitSeb/box86)** - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices (9 months ago)
