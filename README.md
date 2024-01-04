@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an SRE at Honeywell
+I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an SRE at Thomson Reuters
 
 #### 🚀 My recent contributions
 - **[lolverae/Personal-WSL-setup](https://github.com/lolverae/Personal-WSL-setup)** - 1 day ago
