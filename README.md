@@ -3,9 +3,8 @@
 I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an SRE at Thomson Reuters
 
 #### 🚀 My recent contributions
-- **[lolverae/Personal-WSL-setup](https://github.com/lolverae/Personal-WSL-setup)** - 3 days ago
-- **[lolverae/datadog-config-generator](https://github.com/lolverae/datadog-config-generator)** - 3 days ago
-- **[meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd)** - 1 year ago
+- **[lolverae/Personal-WSL-setup](https://github.com/lolverae/Personal-WSL-setup)** - 1 week ago
+- **[lolverae/datadog-config-generator](https://github.com/lolverae/datadog-config-generator)** - 1 week ago
 
 #### ⭐ Recent Stars
 - **[ptitSeb/box86](https://github.com/ptitSeb/box86)** - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices (11 months ago)
