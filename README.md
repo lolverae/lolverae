@@ -3,8 +3,8 @@
 I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an SRE at Thomson Reuters
 
 #### 🚀 My recent contributions
-- **[lolverae/golang-mqtt-example](https://github.com/lolverae/golang-mqtt-example)** - 6 days ago
-- **[lolverae/Personal-WSL-setup](https://github.com/lolverae/Personal-WSL-setup)** - 2 weeks ago
+- **[lolverae/golang-mqtt-example](https://github.com/lolverae/golang-mqtt-example)** - 1 week ago
+- **[lolverae/Personal-WSL-setup](https://github.com/lolverae/Personal-WSL-setup)** - 3 weeks ago
 - **[lolverae/datadog-config-generator](https://github.com/lolverae/datadog-config-generator)** - 1 month ago
 
 #### ⭐ Recent Stars
