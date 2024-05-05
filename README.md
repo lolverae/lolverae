@@ -3,9 +3,9 @@
 I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an SRE at Thomson Reuters
 
 #### 🚀 My recent contributions
-- **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)** - 3 days ago
-- **[lolverae/Personal-WSL-setup](https://github.com/lolverae/Personal-WSL-setup)** - 6 days ago
-- **[lolverae/my-proxmox-setup](https://github.com/lolverae/my-proxmox-setup)** - 6 days ago
+- **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)** - 1 week ago
+- **[lolverae/Personal-WSL-setup](https://github.com/lolverae/Personal-WSL-setup)** - 1 week ago
+- **[lolverae/my-proxmox-setup](https://github.com/lolverae/my-proxmox-setup)** - 1 week ago
 
 #### ⭐ Recent Stars
 - **[ptitSeb/box86](https://github.com/ptitSeb/box86)** - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices (1 year ago)
