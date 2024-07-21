@@ -4,13 +4,13 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 
 #### 🚀 My recent contributions
 - **[lolverae/svelte-pocketbase-auth](https://github.com/lolverae/svelte-pocketbase-auth)** - 2 days ago
-- **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)** - 3 days ago
-- **[lolverae/Personal-WSL-setup](https://github.com/lolverae/Personal-WSL-setup)** - 1 week ago
+- **[lolverae/Personal-WSL-setup](https://github.com/lolverae/Personal-WSL-setup)** - 5 days ago
+- **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)** - 1 week ago
 
 #### ⭐ Recent Stars
+- **[tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator)** - Manage complex tmux sessions easily (3 days ago)
 - **[ptitSeb/box86](https://github.com/ptitSeb/box86)** - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices (1 year ago)
 - **[andyshinn/docker-alpine-abuild](https://github.com/andyshinn/docker-alpine-abuild)** - Alpine Linux package builder in Docker (1 year ago)
-- **[mag37/dockcheck](https://github.com/mag37/dockcheck)** - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling. (1 year ago)
 
 ## 📖 Things I am learning about
 
