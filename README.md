@@ -4,7 +4,7 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 
 #### 🚀 My recent contributions
 - **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)** - 1 month ago
-- **[lolverae/todo-cli](https://github.com/lolverae/todo-cli)** - 1 month ago
+- **[lolverae/todo-cli](https://github.com/lolverae/todo-cli)** - 2 months ago
 - **[lolverae/proxmox-kubernetes-lab](https://github.com/lolverae/proxmox-kubernetes-lab)** - 2 months ago
 
 #### ⭐ Recent Stars
