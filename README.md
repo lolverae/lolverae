@@ -3,9 +3,9 @@
 I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an SRE at Thomson Reuters
 
 #### 🚀 My recent contributions
-- **[lolverae/proxmox-kubernetes-lab](https://github.com/lolverae/proxmox-kubernetes-lab)** - 6 days ago
+- **[lolverae/todo-cli](https://github.com/lolverae/todo-cli)** - 3 days ago
+- **[lolverae/proxmox-kubernetes-lab](https://github.com/lolverae/proxmox-kubernetes-lab)** - 1 week ago
 - **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)** - 4 months ago
-- **[lolverae/todo-cli](https://github.com/lolverae/todo-cli)** - 5 months ago
 
 #### ⭐ Recent Stars
 - **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (5 months ago)
