@@ -3,12 +3,12 @@
 I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an SRE at Thomson Reuters
 
 #### 🚀 My recent contributions
-- **[lolverae/homelab](https://github.com/lolverae/homelab)** - 4 days ago
+- **[lolverae/homelab](https://github.com/lolverae/homelab)** - 1 week ago
 - **[lolverae/todo-cli](https://github.com/lolverae/todo-cli)** - 6 months ago
-- **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)** - 10 months ago
+- **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)** - 11 months ago
 
 #### ⭐ Recent Stars
-- **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (11 months ago)
+- **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (1 year ago)
 - **[tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator)** - Manage complex tmux sessions easily (1 year ago)
 - **[ptitSeb/box86](https://github.com/ptitSeb/box86)** - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices (2 years ago)
 
