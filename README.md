@@ -5,7 +5,7 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 #### 🚀 My recent contributions
 - **[lolverae/homelab](https://github.com/lolverae/homelab)** - 1 month ago
 - **[lolverae/todo-cli](https://github.com/lolverae/todo-cli)** - 7 months ago
-- **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)** - 11 months ago
+- **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)** - 1 year ago
 
 #### ⭐ Recent Stars
 - **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (1 year ago)
