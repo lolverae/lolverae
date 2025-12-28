@@ -3,8 +3,8 @@
 I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an SRE at Thomson Reuters
 
 #### 🚀 My recent contributions
-- **[lolverae/homelab](https://github.com/lolverae/homelab)** - 4 months ago
-- **[lolverae/todo-cli](https://github.com/lolverae/todo-cli)** - 10 months ago
+- **[lolverae/homelab](https://github.com/lolverae/homelab)** - 5 months ago
+- **[lolverae/todo-cli](https://github.com/lolverae/todo-cli)** - 11 months ago
 
 #### ⭐ Recent Stars
 - **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (1 year ago)
