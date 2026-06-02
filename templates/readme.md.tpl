@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an SRE at Thomson Reuters
+I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an DevOps specialized in Data @Sailpoint
 
 #### 🚀 My recent contributions
 {{- range recentContributions 3}}
@@ -23,7 +23,7 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 
 - 🏋 Weightlifting
 - 🚴 Biking
-- 🤼 Open source
+- 🤼 Miniature Painting
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-olvera/)
