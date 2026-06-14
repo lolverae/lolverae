@@ -3,13 +3,13 @@
 I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an DevOps specialized in Data @Sailpoint
 
 #### 🚀 My recent contributions
-- **[lolverae/homelab](https://github.com/lolverae/homelab)** - 1 week ago
+- **[lolverae/homelab](https://github.com/lolverae/homelab)** - 4 days ago
 - **[lolverae/lolverae.github.io](https://github.com/lolverae/lolverae.github.io)** - 1 week ago
 
 #### ⭐ Recent Stars
+- **[dunst-project/dunst](https://github.com/dunst-project/dunst)** - Lightweight and customizable notification daemon (4 days ago)
 - **[lolverae/lolverae](https://github.com/lolverae/lolverae)** (2 years ago)
 - **[tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator)** - Manage complex tmux sessions easily (2 years ago)
-- **[ptitSeb/box86](https://github.com/ptitSeb/box86)** - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices (3 years ago)
 
 ## 📖 Things I am learning about
 
