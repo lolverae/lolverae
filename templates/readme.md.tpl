@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Alberto](https://albertolvera.com), I write and operate software for a living. I'm currently working as an DevOps specialized in Data @Sailpoint
+I'm [Alberto](https://albertolvera.com), a Senior DevOps & Platform Engineer @Sailpoint. I build self-service cloud automation so teams ship without waiting on DevOps.
 
 #### 🚀 My recent contributions
 {{- range recentContributions 3}}
@@ -15,9 +15,9 @@ I'm [Alberto](https://albertolvera.com), I write and operate software for a livi
 
 ## 📖 Things I am learning about
 
-- Database and API design
-- HTMX and Svelte
-- Networking and Security on Azure
+- Kubernetes optimization & cost management
+- Platform engineering patterns
+- Data platform infrastructure
 
 ## 💪 Things I do for fun
 
